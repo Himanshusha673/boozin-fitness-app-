@@ -1,6 +1,8 @@
 Boozin Fitness App 🏃‍♂️
 A Flutter-based fitness tracking application that monitors your daily steps and calories burned using Health Connect on Android.
 
+https://drive.google.com/file/d/14Ht0n1deNlyRBQOoC7Wwg324yz4mulGH/view?usp=sharing
+
 ✨ Features
 Step Tracking – Monitor daily steps with progress visualization
 
