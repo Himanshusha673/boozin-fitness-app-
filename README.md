@@ -77,8 +77,6 @@ Progress Visualization: Circular progress indicators
 
 Real Updates: Data updates automatically via Health Connect
 
-🤝 Contributing
-Contributions welcome! Please feel free to submit a Pull Request.
 
 📄 License
 MIT License - see LICENSE file for details
