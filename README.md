@@ -6,6 +6,10 @@ https://drive.google.com/file/d/14Ht0n1deNlyRBQOoC7Wwg324yz4mulGH/view?usp=shari
 ✨ Features
 Step Tracking – Monitor daily steps with progress visualization
 
+
+https://github.com/user-attachments/assets/adbde56f-9cf8-46ae-a8bb-28277a7ccf26
+
+
 Calorie Monitoring – Track active calories burned
 
 Goal Setting – Set personalized fitness goals
