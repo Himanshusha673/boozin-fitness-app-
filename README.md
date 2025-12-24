@@ -28,7 +28,7 @@ Install Health Connect from Google Play Store
 Clone & Run:
 
 bash
-git clone https://github.com/yourusername/boozin_fitness_app.git
+git clone
 cd boozin_fitness_app
 flutter pub get
 flutter run
